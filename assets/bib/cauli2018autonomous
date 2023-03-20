@@ -1,0 +1,8 @@
+@inproceedings{cauli2018autonomous,
+  title={Autonomous table-cleaning from kinesthetic demonstrations using Deep Learning},
+  author={Cauli, Nino and Vicente, Pedro and Kim, Jaeseok and Damas, Bruno and Bernardino, Alexandre and Cavallo, Filippo and Santos-Victor, Jos{\'e}},
+  booktitle={2018 Joint IEEE 8th International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob)},
+  pages={26--32},
+  year={2018},
+  organization={IEEE}
+}
